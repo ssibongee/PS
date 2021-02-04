@@ -4,6 +4,13 @@
 </div>
 
 
+### Documnets
+* LIS (Longest Increasing Subsequence)
+  * [LIS : 다이나믹 프로그래밍을 이용한 방법](https://github.com/ssibongee/PS/blob/main/doc/LIS_DP.md)
+  * [LIS : 이분탐색을 이용한 방법](https://github.com/ssibongee/PS/blob/main/doc/LIS_BS.md)
+
+<!--
+
 ### 문제 풀이 사이트
 
 * [백준 온라인 저지](https://www.acmicpc.net/)
@@ -50,3 +57,4 @@
 * [Tim Sort]()
 * [Double Pivot Quick Sort]()
 * [Binary Search]()
+-->
