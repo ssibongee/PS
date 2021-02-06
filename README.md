@@ -9,6 +9,7 @@
   * [LIS : 다이나믹 프로그래밍을 이용한 방법](https://github.com/ssibongee/PS/blob/main/doc/LIS_DP.md)
   * [LIS : 이분탐색을 이용한 방법](https://github.com/ssibongee/PS/blob/main/doc/LIS_BS.md)
 * [Knapsack](https://github.com/ssibongee/PS/blob/main/doc/Knapsack.md)
+* [Indexed Tree](https://github.com/ssibongee/PS/blob/main/doc/Indexed%20Tree.md)
 
 <!--
 
