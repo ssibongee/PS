@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/524904a7e4b05a24380f0661/1576851679122-30CFSPJM106ZESYAU2H4/ke17ZwdGBToddI8pDm48kJ--iCtORadU9RAHYhNh4KZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI3VHQmUjU6jJ32NxwL0gQlbe_axPuCEbXXxVGCR2uZvk/Algorithm+logo+white-09.png" height="200px">
-<p> 자료구조와 알고리즘에 대해 학습하고 풀이한 내용을 기록합니다.</p>
+<p> 자료구조와 알고리즘에 대해 학습하고 풀이한 내용을 기록합니다.<a href="https://solved.ac/doiiollo">
 </div>
+  
+  <a href="https://solved.ac/doiiollo">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=doiiollo">
 
 
 ### Documnets
@@ -10,6 +13,7 @@
   * [LIS : 이분탐색을 이용한 방법](https://github.com/ssibongee/PS/blob/main/doc/LIS_BS.md)
 * [Knapsack](https://github.com/ssibongee/PS/blob/main/doc/Knapsack.md)
 * [Indexed Tree](https://github.com/ssibongee/PS/blob/main/doc/Indexed%20Tree.md)
+* [Segment Tree](https://github.com/ssibongee/PS/blob/main/doc/Segment%20Tree.md)
 
 <!--
 
