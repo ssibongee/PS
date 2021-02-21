@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.linkedlist;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
